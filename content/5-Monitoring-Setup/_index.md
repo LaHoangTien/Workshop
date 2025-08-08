@@ -28,7 +28,8 @@ Lưu ý: Việc cấu hình **Flow Logs** nên thực hiện ít nhất tại **
     - Chọn **Hub-vpc**
     - Chọn **Actions**
     - Chọn **Creat flow log**.
-![alt text](/images/monitoring/1.png?featherlight=false&width=90pc)
+![alt text]({{ "/images/monitoring/1.png?featherlight=false&width=90pc" | relURL }})
+
 2. **Tạo Flow Logs**.
     - **Cấu hình như ảnh**
     - Nhấn **Creat flow log**
